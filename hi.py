@@ -1,1 +1,1 @@
-print("hello world")
+print("THIS IS A NEW STRING")
